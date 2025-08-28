@@ -1,5 +1,5 @@
 ## [Preview](https://streamable.com/eknoax)
-
+## [Support](https://discord.gg/Evd7gvpTyW)
 # ✨ Features
 
 📦 Patrolbag item with its own stash (configurable slots & weight)
