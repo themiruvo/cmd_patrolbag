@@ -1,10 +1,10 @@
-✨ Features
+# ✨ Features
 
 📦 Patrolbag item with its own stash (configurable slots & weight)
 
 🧑‍✈️ NPC interaction via ox_target (take, open, return bag)
 
-🔒 Security checks
+# 🔒 Security checks
 
 Anti-spam (cooldowns & rate limits)
 
@@ -26,11 +26,11 @@ Notifications handled server-side
 
 Adjustable performance & security settings
 
-🔄 Automatic state sync when players join
+# 🔄 Automatic state sync when players join
 
 🧹 Maintenance thread for cleanup of cache, cooldowns, and limits
 
-📂 Requirements
+# 📂 Requirements
 
 ox_lib
 
@@ -40,7 +40,7 @@ ox_target
 
 es_extended
 
-⚙️ Installation
+ #⚙️ Installation
 
 Download the resource and place it in your resources folder
 
@@ -51,7 +51,7 @@ ensure cmd_patrolbag
 
 Configure config.lua to your needs (jobs, NPC position, items, limits, etc.)
 
-📜 Usage
+# 📜 Usage
 
 Interact with the NPC to:
 
