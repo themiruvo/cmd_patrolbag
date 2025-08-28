@@ -16,7 +16,7 @@ Enforces one bag per player
 
 ⚡ Performance optimized with caching, status checker, and memory limits
 
-🛠️ Config-driven
+# 🛠️ Config-driven
 
 NPC model & location
 
@@ -40,7 +40,7 @@ ox_target
 
 es_extended
 
- #⚙️ Installation
+ # ⚙️ Installation
 
 Download the resource and place it in your resources folder
 
