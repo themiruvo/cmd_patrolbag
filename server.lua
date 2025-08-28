@@ -1,3 +1,11 @@
+local resourceName = GetCurrentResourceName()
+if resourceName ~= 'cmd_patrolbag' then
+    print('^1[SECURITY] The resource must be named "cmd_patrolbag"! Current: ' .. resourceName .. '^0')
+    StopResource(resourceName)
+    return
+end
+
+
 local ESX = exports.es_extended:getSharedObject()
 local ox = exports.ox_inventory
 local registered = {}
@@ -543,4 +551,5 @@ AddEventHandler('playerJoining', function(src)
             debugLog('Late sync for player %d: %s', src, tostring(hasBag))
         end
     end)
+
 end)
