@@ -1,5 +1,12 @@
 ## USE THE RELEASE FOR THE QB/QBOX VERSION. AND I updated the resource to have locales option. to use english, german and swedish. 
 
+# Patrol Bag (QBCore/QBOX Version)
+
+This is a modified version of the original [cmd_patrolbag](https://github.com/cmdscripts/cmd_patrolbag)
+by [Original Author].  
+Original project licensed under the [Apache License 2.0](LICENSE).
+Modifications made by `themiruvo`, 2025.
+
 
 ## [Preview](https://streamable.com/eknoax)
 ## [Support](https://discord.gg/Evd7gvpTyW)
