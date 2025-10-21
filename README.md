@@ -1,3 +1,6 @@
+## USE THE RELEASE FOR THE QB/QBOX VERSION. AND I updated the resource to have locales option. to use english, german and swedish. 
+
+
 ## [Preview](https://streamable.com/eknoax)
 ## [Support](https://discord.gg/Evd7gvpTyW)
 # ✨ Features
