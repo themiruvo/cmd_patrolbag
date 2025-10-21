@@ -50,7 +50,7 @@ ox_inventory
 
 ox_target
 
-es_extended
+~~es_extended~~ it supports now qb/qbox
 
  # ⚙️ Installation
 
