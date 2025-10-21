@@ -3,7 +3,7 @@
 # Patrol Bag (QBCore/QBOX Version)
 
 This is a modified version of the original [cmd_patrolbag](https://github.com/cmdscripts/cmd_patrolbag)
-by [Original Author].  
+by [cmdscripts](https://github.com/cmdscripts)
 Original project licensed under the [Apache License 2.0](LICENSE).
 Modifications made by `themiruvo`, 2025.
 
